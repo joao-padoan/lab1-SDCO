@@ -1,3 +1,14 @@
+/**
+ * Lab0: Leitura de Base de Dados Não-Distribuida
+ * 
+ * Nome: João Pedro Padoan
+ * Modificado de: Lucio A. Rocha
+ * 
+ * Referencias: 
+ * https://docs.oracle.com/javase/tutorial/essential/io
+ * 
+ */
+
 import java.io.*;
 import java.nio.file.Path;
 import java.nio.file.Paths;
